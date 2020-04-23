@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-#{% include base_path %}
-
 Education
 ======
 * Ph.D Candidate in Computer Science, Loughborough University, UK, 2019 ~
