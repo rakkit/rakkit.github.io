@@ -16,23 +16,16 @@ School of Science
 
 Loughborough University
 
-
-
-
 Office: N2.15 Haslegrave Building
-Email : J.WANG5@lboro.ac.uk
 
+
+Email : J.WANG5@lboro.ac.uk
 
 
 Education
 ======
 * Ph.D. Student in Computer Science, Loughborough University, UK, 2019 ~
-* B.S. in Computer Science with minor of Automation, Zhejiang University of Technology, China, 2015 ~ 2019
-
-#Publications
-#======
-#  Some Publications Here.
-  
+* B.S. in Computer Science with minor of Automation, Zhejiang University of Technology, China, 2015 ~ 2019  
 
 Teaching Assistant
 ======
