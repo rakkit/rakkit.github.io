@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: "Jiangtao Wang (Ph.D. Student)"
-excerpt: "About me"
-author_profile: false
+#excerpt: "About me"
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html
