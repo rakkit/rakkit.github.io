@@ -14,7 +14,8 @@ Computer Science
 
 School of Science
 
-Loughborough University
+Loughborough University\
+\ 
 \
 \
 Office: N2.15 Haslegrave Building
