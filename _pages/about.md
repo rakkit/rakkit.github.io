@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 
-```
+
 Computer Science
 
 School of Science
 
-Loughborough University
-
-
+Loughborough University </br>
+</br>
+</br>
 Office: N2.15 Haslegrave Building
-```
+
 Email : <J.WANG5@lboro.ac.uk>
 
 
