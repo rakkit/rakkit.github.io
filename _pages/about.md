@@ -29,9 +29,9 @@ Education
 * Ph.D. Student in Computer Science, Loughborough University, UK, 2019 ~
 * B.S. in Computer Science with minor of Automation, Zhejiang University of Technology, China, 2015 ~ 2019
 
-Publications
-======
-  Some Publications Here.
+#Publications
+#======
+#  Some Publications Here.
   
 
 Teaching Assistant
