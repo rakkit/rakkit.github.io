@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+&nbsp;
 
 
 Computer Science
@@ -15,8 +16,6 @@ Computer Science
 School of Science
 
 Loughborough University 
-&nbsp;
-
 &nbsp;
 
 &nbsp;
