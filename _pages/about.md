@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Jiangtao Wang"
+title: "Jiangtao Wang (Ph.D. Student)"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in Computer Science, Loughborough University, UK, 2019 ~
+* Ph.D. Student in Computer Science, Loughborough University, UK, 2019 ~
 * B.S. in Computer Science with minor of Automation, Zhejiang University of Technology, China, 2015 ~ 2019
 
 Publications
