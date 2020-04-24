@@ -19,7 +19,7 @@ Loughborough University
 Office: N2.15 Haslegrave Building
 
 
-Email : J.WANG5@lboro.ac.uk
+Email : [J.WANG5@lboro.ac.uk](J.WANG5@lboro.ac.uk)
 
 
 Education
