@@ -14,9 +14,14 @@ Computer Science
 
 School of Science
 
-Loughborough University </br>
-</br>
-</br>
+Loughborough University 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 Office: N2.15 Haslegrave Building
 
 Email : <J.WANG5@lboro.ac.uk>
