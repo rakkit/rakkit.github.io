@@ -29,6 +29,7 @@ Email : <J.WANG5@lboro.ac.uk>
 Education
 ======
 * Ph.D. Student in Computer Science, Loughborough University, UK, 2019 ~
+* Visiting Student in Computer Science, Loughborough University, UK, 2018 ~ 2019
 * B.S. in Computer Science with minor of Automation, Zhejiang University of Technology, China, 2015 ~ 2019  
 
 Teaching Assistant
