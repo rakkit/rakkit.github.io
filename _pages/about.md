@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jiangtao Wang (Ph.D. Student)"
+title: "Jiangtao Wang"
 #excerpt: "About me"
 author_profile: True
 redirect_from: 
@@ -10,6 +10,7 @@ redirect_from:
 
 &nbsp;
 
+Ph.D. Student (Supervised by Dr.Baihua Li and Prof. Qinggang Meng)
 
 Computer Science
 
@@ -23,7 +24,7 @@ Loughborough University
 
 Office: N2.15 Haslegrave Building
 
-Email : <J.WANG5@LBORO.AC.UK>
+Email : <J.WANG@LBORO.AC.UK>
 
 
 Education
