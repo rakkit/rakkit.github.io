@@ -40,7 +40,10 @@ Education
 * Visiting Student in Computer Science, Loughborough University, UK, 2018 ~ 2019
 * B.S. in Computer Science with minor of Automation, Zhejiang University of Technology, China, 2015 ~ 2019  
 
+
 Teaching Assistant
 ======
 * 19COA123 Web Programming, Loughborough Unviersity
- 
+* 20COP508 Applied Machine Learning
+
+
