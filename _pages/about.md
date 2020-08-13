@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Towards Better Understand of The Underwater World "
+title: "Towards Better Understanding of The Underwater World "
 #excerpt: "About me"
 author_profile: True
 redirect_from: 
