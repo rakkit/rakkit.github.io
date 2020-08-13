@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Jiangtao Wang"
+title: "Towards better understand of underwater world by vision"
 #excerpt: "About me"
-author_profile: True
+author_profile: False
 redirect_from: 
   - /about/
   - /about.html
@@ -10,7 +10,11 @@ redirect_from:
 
 &nbsp;
 
-Ph.D. Student (Supervised by Dr.Baihua Li and Prof. Qinggang Meng)
+Ph.D. Student 
+
+Supervised by Dr. B. Li and Prof. Q. Meng
+
+Advised    by Dr. E. Rocco
 
 Computer Science
 
@@ -26,6 +30,7 @@ Office: N2.15 Haslegrave Building
 
 Email : <j.wang5@lboro.ac.uk>
 
+&nbsp;
 
 Education
 ======
