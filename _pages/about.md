@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Towards better understand of underwater world by vision"
+title: "Towards Better Understand of The Underwater World "
 #excerpt: "About me"
 author_profile: False
 redirect_from: 
@@ -10,6 +10,8 @@ redirect_from:
 
 &nbsp;
 
+Jiangtao Wang
+============
 Ph.D. Student 
 
 Supervised by Dr. B. Li and Prof. Q. Meng
