@@ -14,9 +14,9 @@ Jiangtao Wang
 ============
 Ph.D. Student 
 
-Supervised by Dr. B. Li and Prof. Q. Meng
+Supervised by [Dr. B. Li](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/baihua-li/) and [Prof. Q. Meng](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/qinggang-meng/)
 
-Advised    by Dr. E. Rocco
+Advised    by [Dr. E. Rocco](http://www.witted.it/)
 
 Computer Science
 
