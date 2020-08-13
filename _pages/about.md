@@ -44,6 +44,7 @@ Education
 Teaching Assistant
 ======
 * 19COA123 Web Programming, Loughborough Unviersity
-* 20COP508 Applied Machine Learning
+
+<!-- * 20COP508 Applied Machine Learning --!>
 
 
