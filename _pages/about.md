@@ -14,7 +14,7 @@ Jiangtao Wang
 ============
 Ph.D. Student 
 
-Supervised by [Dr. B. Li](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/baihua-li/) and [Prof. Q. Meng](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/qinggang-meng/)
+Supervised by [Prof. B. Li](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/baihua-li/) and [Prof. Q. Meng](https://www.lboro.ac.uk/departments/compsci/staff/academic-teaching/qinggang-meng/)
 
 Advised    by [Dr. E. Rocco](http://www.witted.it/)
 
@@ -34,6 +34,11 @@ Email : <j.wang5@lboro.ac.uk>
 
 &nbsp;
 
+News
+======
+Our underwater GYM is constructing now. It is proposed for better training Reinforcement Learning algorithm using simulation environment. This GYM is based on Unreal Engine and using Airsim for UE4/Python interaction, it will support any environment built up with UE4. In the near further, we will add multiples drones control for swarm !
+
+
 Education
 ======
 * Ph.D. Student in Computer Science, Loughborough University, UK, 2019 ~
@@ -46,5 +51,3 @@ Teaching Assistant
 * 19COA123 Web Programming, Loughborough Unviersity
 
 * 20COP508 Applied Machine Learning
-
-
