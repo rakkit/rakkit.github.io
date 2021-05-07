@@ -38,6 +38,9 @@ News
 ======
 Our underwater GYM is constructing now. It is proposed for better training Reinforcement Learning algorithm using simulation environment. This GYM is based on Unreal Engine and using Airsim for UE4/Python interaction, it will support any environment built up with UE4. In the near further, we will add multiples drones control for swarm !
 
+&nbsp;
+
+We now have a simple version gym environment (2d) for curiosity exploration, it is available on [curiosity_gym](https://github.com/rakkit/curiosity_gym). It also supports using multiple-robotics (swarm) to do the exploration (up to 50 robotics).
 
 Education
 ======
